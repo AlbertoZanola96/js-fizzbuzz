@@ -1,5 +1,12 @@
 //Scrivi un programma che stampi i numeri da 1 a 100
 
+var numeroInterazioni = 100;
+
+for (var i = 0; i < numeroInterazioni; i++) {
+    console.log(i + 1);
+}
+
+
 
 
 
